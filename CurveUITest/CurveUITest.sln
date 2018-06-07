@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurveUITest", "Assembly-CSharp.csproj", "{511E1369-998A-54AA-E43A-4894924C7F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurveUITest", "Assembly-CSharp-Editor.csproj", "{C66D8463-9E7F-13D5-CE90-DEB1C7185CE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{511E1369-998A-54AA-E43A-4894924C7F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511E1369-998A-54AA-E43A-4894924C7F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511E1369-998A-54AA-E43A-4894924C7F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511E1369-998A-54AA-E43A-4894924C7F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66D8463-9E7F-13D5-CE90-DEB1C7185CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66D8463-9E7F-13D5-CE90-DEB1C7185CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66D8463-9E7F-13D5-CE90-DEB1C7185CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66D8463-9E7F-13D5-CE90-DEB1C7185CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
